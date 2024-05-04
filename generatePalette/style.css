@@ -1,0 +1,40 @@
+
+body{
+    text-align: center ;
+    margin: 0;
+    padding: 0;
+}
+
+form{
+    text-align: center;
+    padding: 50px;
+    width: auto;
+    margin: 0 auto;
+}
+.div1{
+    padding: 45px;
+    text-align: center;
+}
+
+div{
+    margin: 0 auto;
+}
+
+.copy{
+    text-align: center;
+    padding: 5px;
+    font-size: 15px;
+    color: aliceblue;
+    background-color: #404a77;
+}
+
+.parent {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    }
+    
+    .div1 { grid-area: 1 / 1 / 2 / 2; width: 100px;}
+    .div2 { grid-area: 1 / 2 / 2 / 3; }
