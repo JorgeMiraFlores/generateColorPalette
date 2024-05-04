@@ -8,18 +8,19 @@ A very simple color palette generator.
    
 2. Select the RGB index sort:
    
-   * Red RGB index:
+   * Red RGB index (only one can be chosen):
        - from highest to lowest.
        - from lowest to highest.
          
-   * Green RGB index:
+   * Green RGB index (only one can be chosen):
        - from highest to lowest.
        - from lowest to highest.
          
-   * Blue RGB index:
+   * Blue RGB index (only one can be chosen):
         - from highest to lowest.
        - from lowest to highest.
 
 3. Press "Generate" button.
 
 4. Enjoy generated color palette!!
+
