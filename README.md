@@ -1,2 +1,3 @@
-# generateColorPalette
-A very simple color palette generator
+#Color Palette Generator
+
+A very simple color palette generator. 
