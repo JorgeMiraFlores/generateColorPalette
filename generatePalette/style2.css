@@ -13,6 +13,7 @@ body {
 }
 #num{
     box-shadow: 0 0 0 0 var(--accent);
+    
     outline: 2px solid;
     color: black;
     outline-color: white;

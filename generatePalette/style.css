@@ -38,3 +38,14 @@ div{
     
     .div1 { grid-area: 1 / 1 / 2 / 2; width: 100px;}
     .div2 { grid-area: 1 / 2 / 2 / 3; }
+
+    .checkbox-group {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .checkbox-group label {
+        color: white;
+        font-size: 15px;
+        margin-right: 20px; /* Ajusta el espaciado entre los checkboxes */
+    }
